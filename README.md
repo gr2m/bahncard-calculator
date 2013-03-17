@@ -5,9 +5,9 @@ This project uses [casperjs](http://casperjs.org/) to login to your bahn.de acco
 and gather all the tickets from the past 11 months (because that's all they give us...)
 and turns it into a CSV (because they forgot about that feature, right?)
 
-As of now, it only gathers the data, but does not calculation, 
-what BahnCard would save the most money. That shoudln't be hard 
-anymore. Just gimme a reason to do it, or DIY ;-)
+As of now, it only gathers the data, but does not calculate 
+what BahnCard would have saved the most. That shouldn't be 
+hard to add though. The hard part is done.
 
 
 Usage
