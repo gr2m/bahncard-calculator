@@ -1,0 +1,16 @@
+id;bookingDate;travelDate;title;description;receiptNumber;price;bahncard;class;priceType
+BCCFPC;10.01.2013;12.01.2013;Hanau Hbf - Bonn Hbf;Hin- und Rückfahrt, Normalpreis, 2. Kl., 1 Erw., BC 25, Hanau+City/Bonn+City;35963067;69,75 EUR;25;2;Normalpreis
+3EVN9S;26.12.2012;15.01.2013;Hanau Hbf - Berlin Ostbahnhof;Hin- und Rückfahrt, Sparpreis, 1. Kl., 1 Erw., Hanau/Berlin;33359195;118,00 EUR;;1;Sparpreis
+7HMYGG;12.10.2012;19.10.2012;Zürich HB - Mannheim Hbf;Hin- und Rückfahrt, Europa-Spezial/Europa-Spez. Schweiz, 2. Kl., 1 Erw., BC 25/BC 25, Zuerich HB/Mannheim;15595425;80,90 EUR;25;2;Spezial
+UMGT11;18.09.2012;19.09.2012;Hanau Hbf - Frankfurt(Main)Hbf;Einfache Fahrt, Normalpreis, 2. Kl., 1 Erw., BC 25, Hanau Hbf/Frankfurt(Main)Hbf;10108733;9,75 EUR;25;2;Normalpreis
+4Z1FAR;17.09.2012;29.09.2012;Hanau Hbf - Wien Westbahnhof;Hin- und Rückfahrt, Europa-Spezial/Europa-Spez. Österr., 1. Kl., 1 Erw.., Hanau/Wien Westbahnhof;9767230;168,00 EUR;;1;Spezial
+U8W6CS;23.08.2012;10.10.2012;Berlin Hbf - Zürich HB;Einfache Fahrt, Europa-Spezial/Europa-Spez. Schweiz, 1. Kl., 1 Erw.., Berlin/Zuerich HB;4285639;99,00 EUR;;1;Spezial
+8QKQL2;23.08.2012;19.09.2012;Zürich HB - Berlin Hbf;Einfache Fahrt, Europa-Spezial/Europa-Spez. Schweiz, 1. Kl., 1 Erw., RAILPLUS, Zuerich HB/Berlin;4283207;110,45 EUR;;1;Spezial
+EDRTSL;21.07.2012;29.07.2012;Berlin Ostbahnhof - Hanau Hbf;Einfache Fahrt, Sparpreis, 1. Kl., 1 Erw., Berlin/Hanau;97814063;99,00 EUR;;1;Sparpreis
+HVKPHA;02.07.2012;03.07.2012;Hanau Hbf - Darmstadt Hbf;Einfache Fahrt, Normalpreis, 2. Kl., 1 Erw., BC 25, Hanau Hbf/Darmstadt Hbf;93819017;12,35 EUR;25;2;Normalpreis
+FXQYDQ;29.06.2012;10.07.2012;Hanau Hbf - Berlin Ostbahnhof;Einfache Fahrt, Sparpreis, 1. Kl., 1 Erw., Hanau/Berlin;93303015;99,00 EUR;;1;Sparpreis
+MUPVLH;23.06.2012;30.06.2012;Zürich HB - Mannheim Hbf;Einfache Fahrt, Europa-Spezial/Europa-Spez. Schweiz, 2. Kl., 1 Erw., BC 25/BC 25, Zuerich HB/Mannheim;91857728;44,20 EUR;25;2;Spezial
+DX8D11;21.06.2012;30.06.2012;Lindau Hbf - Mannheim Hbf;Einfache Fahrt, Sparpreis, 2. Kl., 1 Erw., BC 25, Lindau Hbf/Mannheim+City;91543456;33,00 EUR;25;2;Sparpreis
+L2Z78W;30.04.2012;10.05.2012;Berlin Ostbahnhof - Kronberg(Taunus);Einfache Fahrt, Sparpreis, 1. Kl., 1 Erw., BC 25, Berlin/Kronberg(Taunus);79921528;74,25 EUR;25;1;Sparpreis
+UVWUU3;30.04.2012;11.05.2012;Hanau Hbf - Fribourg;Einfache Fahrt, Europa-Spezial/Europa-Spez. Schweiz, 1. Kl., 1 Erw., BC 25/BC 25, Hanau/Fribourg;79921400;81,70 EUR;25;1;Spezial
+BBO7EC;23.04.2012;30.04.2012;Hanau Hbf - Berlin Ostbahnhof;Einfache Fahrt, Sparpreis, 1. Kl., 1 Erw., BC 25, Hanau/Berlin+City;78628048;74,25 EUR;25;1;Sparpreis
